@@ -1,4 +1,4 @@
-**Project CRA: Credit Risk Assessment for Loan Applications**
+*Project CRA: Credit Risk Assessment for Loan Applications*
 
 **Goal:** ML Project to deliver a financial services application: ML Credit Risk Assessment
 
