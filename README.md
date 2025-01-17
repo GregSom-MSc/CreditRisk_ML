@@ -1,5 +1,6 @@
+<h1>
 **Project CRA: Credit Risk Assessment for Loan Applications**
-
+</h1>h1>
 **Goal:** ML Project to deliver a financial services application: ML Credit Risk Assessment
 
 **Description:** I built a a Gradient Boosting ML model to classify loan applications as high-risk or low-risk based on various indicators from scratch. 
